@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy — BoardGrab</title>
+  <style>
+    :root { --ink:#1C2420; --green:#17663F; --paper:#FBFBF8; --muted:#5A635D; --rule:#D9DDD6; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--paper); color:var(--ink);
+      font:16px/1.6 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+    .wrap { max-width:720px; margin:0 auto; padding:48px 16px 80px; }
+    h1 { font-size:1.6rem; margin:0 0 4px; padding-bottom:12px; border-bottom:2px solid var(--green); }
+    h2 { font-size:1.1rem; margin:32px 0 8px; color:var(--green); }
+    .date { color:var(--muted); font-size:.9rem; }
+    ul { padding-left:1.2em; } li { margin:6px 0; }
+    a { color:var(--green); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Privacy Policy — BoardGrab</h1>
+    <p class="date">Last updated: 30 October 2026</p>
+    <p>BoardGrab is a browser extension by Solytics GmbH. This policy describes what the extension does with data.</p>
+    <h2>Data collection</h2>
+    <p>BoardGrab does <strong>not</strong> collect, transmit, store off-device, or sell your board data. All processing happens locally in your browser. The Excel or CSV file it produces is created on your device and never leaves it. There is no BoardGrab server, no account and no sign-up. The only data that leaves your device is the ExtensionPay license data described under Payments.</p>
+    <h2>What the extension reads</h2>
+    <p>When you start an export on a Trello board, BoardGrab reads <strong>that board</strong> (its lists, cards, checklists, custom fields, labels, members and comments) through Trello's API, using your own logged-in browser session. It can only read boards you can already open. It performs no action on your behalf: it does not create, edit, move, comment on or delete anything in Trello.</p>
+    <p>The board data is held in memory only for the duration of the export and is written solely into your local file.</p>
+    <h2>Permissions</h2>
+    <ul><li><strong>storage</strong>: stores a counter of how many free exports you have used and the license record described under Payments. Board data is never stored.</li><li><strong>Access to trello.com</strong>: shows the Export button on Trello board pages and reads the board you are viewing, during an export you started. No other site is read.</li><li><strong>Content script on extensionpay.com</strong>: activates a purchased license after checkout, as required by ExtensionPay.</li></ul>
+    <h2>Payments</h2>
+    <p>Pro licenses are handled by ExtensionPay (extensionpay.com), with payment processed by Stripe. Once you open the payment page, ExtensionPay issues a random key for this installation; the extension then sends that key to ExtensionPay to check your license. It keeps the license record ExtensionPay returns in the extension's sync storage, including license status, plan, purchase date and, once you have bought Pro, the email address you used at checkout. If Chrome Sync is on, Chrome syncs this storage to your Google account and your other devices. Card details never reach the extension. ExtensionPay's and Stripe's own privacy policies govern their handling of your payment data.</p>
+    <h2>Remote code</h2>
+    <p>None. All code ships inside the extension package; nothing is fetched and executed at runtime.</p>
+    <h2>Analytics</h2>
+    <p>None. The extension contains no analytics, no tracking pixel and no telemetry.</p>
+    <h2>Changes</h2>
+    <p>Changes to this policy are published at this URL with an updated date.</p>
+    <h2>Contact</h2>
+    <p>Solytics GmbH, Hörsteiner Str. 20a, 63791 Karlstein a. Main, Germany — <a href="mailto:jens.laufer@solytics.de">jens.laufer@solytics.de</a> · <a href="/impressum/">Imprint</a></p>
+  </div>
+</body>
+</html>
