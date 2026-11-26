@@ -1,0 +1,831 @@
+{
+  "\u0000plugin-vue:export-helper": [
+    "/assets/_plugin-vue_export-helper-DlAUqK2U.js"
+  ],
+  "\u0000vite/modulepreload-polyfill.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "\u0000vite/preload-helper.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "index.html": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@fontsource-variable/dm-sans/opsz-italic.css": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@fontsource-variable/dm-sans/opsz.css": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@unhead/vue/dist/client.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@unhead/vue/dist/shared/vue.Cr7xSEtD.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@unhead/vue/dist/shared/vue.N9zWjxoK.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@unhead/vue/node_modules/unhead/dist/client.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@unhead/vue/node_modules/unhead/dist/shared/unhead.B5FWS6X0.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@unhead/vue/node_modules/unhead/dist/shared/unhead.CbpEuj3y.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@unhead/vue/node_modules/unhead/dist/shared/unhead.Ct24BOby.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@unhead/vue/node_modules/unhead/dist/shared/unhead.yem5I2v_.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/hookable/dist/index.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/vite-ssg/dist/index.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.ETIvV-80.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/vue-router/dist/devtools-EWN81iOl.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "node_modules/vue-router/dist/vue-router.mjs": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/App.vue": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/components/AdsConsent.vue": [
+    "/assets/LandingLayout-IjGYWkEz.js",
+    "/assets/LandingLayout-CJhl8MzI.css"
+  ],
+  "src/components/AdsConsent.vue?vue&type=style&index=0&scoped=3dd0f1f9&lang.css": [
+    "/assets/LandingLayout-IjGYWkEz.js",
+    "/assets/LandingLayout-CJhl8MzI.css"
+  ],
+  "src/components/FeatureCard.vue": [
+    "/assets/Home-DM401U0k.js"
+  ],
+  "src/components/FunnelCTA.vue": [
+    "/assets/FunnelCTA-TGdcSV9O.js"
+  ],
+  "src/components/LeadCaptureCTA.vue": [
+    "/assets/LeadCaptureCTA-3AInmZKu.js"
+  ],
+  "src/components/NavBar.vue": [
+    "/assets/MainLayout-BRi_RCeL.js"
+  ],
+  "src/components/RelatedArticles.vue": [
+    "/assets/FunnelCTA-TGdcSV9O.js"
+  ],
+  "src/components/ReportOrderForm.vue": [
+    "/assets/ProzessReport-DVs9AVIP.js",
+    "/assets/ProzessReport-BsVZOc1o.css"
+  ],
+  "src/components/ReportOrderForm.vue?vue&type=style&index=0&scoped=707d874c&lang.css": [
+    "/assets/ProzessReport-DVs9AVIP.js",
+    "/assets/ProzessReport-BsVZOc1o.css"
+  ],
+  "src/components/SectionHeading.vue": [
+    "/assets/SectionHeading-CUB7w_TG.js"
+  ],
+  "src/components/SiteFooter.vue": [
+    "/assets/MainLayout-BRi_RCeL.js"
+  ],
+  "src/composables/useAdsTracking.js": [
+    "/assets/LandingLayout-IjGYWkEz.js",
+    "/assets/LandingLayout-CJhl8MzI.css"
+  ],
+  "src/composables/useHead.js": [
+    "/assets/useHead-CGfNnL6U.js"
+  ],
+  "src/composables/useScrollAnimation.js": [
+    "/assets/useScrollAnimation-C2f3dLKb.js"
+  ],
+  "src/composables/useStructuredData.js": [
+    "/assets/useStructuredData-CakSwtBU.js"
+  ],
+  "src/data/altsystemCheck.js": [
+    "/assets/AltsystemCheck-CfZoOTZ0.js",
+    "/assets/AltsystemCheck-Bx7AzJJp.css"
+  ],
+  "src/data/articles.js": [
+    "/assets/articles-D6SsQXRe.js"
+  ],
+  "src/data/blogPosts.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/data/indexState.json": [
+    "/assets/articles-D6SsQXRe.js"
+  ],
+  "src/data/navigation.js": [
+    "/assets/MainLayout-BRi_RCeL.js"
+  ],
+  "src/data/products.js": [
+    "/assets/Produkte-ClSytKVz.js"
+  ],
+  "src/layouts/LandingLayout.vue": [
+    "/assets/LandingLayout-IjGYWkEz.js",
+    "/assets/LandingLayout-CJhl8MzI.css"
+  ],
+  "src/layouts/MainLayout.vue": [
+    "/assets/MainLayout-BRi_RCeL.js"
+  ],
+  "src/main.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/About.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/About.vue": [
+    "/assets/About-CKCcHLmc.js"
+  ],
+  "src/pages/Blog.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/Blog.vue": [
+    "/assets/Blog-BaVmGX1r.js"
+  ],
+  "src/pages/BlogArticle.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/BlogArticle.vue": [
+    "/assets/BlogArticle-eJDVkZjn.js"
+  ],
+  "src/pages/Datenschutz.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/Datenschutz.vue": [
+    "/assets/Datenschutz-mePh0Mgk.js"
+  ],
+  "src/pages/Digitalbonus.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/Digitalbonus.vue": [
+    "/assets/Digitalbonus-Mbcfo1zy.js"
+  ],
+  "src/pages/FAQ.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/FAQ.vue": [
+    "/assets/FAQ-BK9Yyu2V.js"
+  ],
+  "src/pages/Home.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/Home.vue": [
+    "/assets/Home-DM401U0k.js"
+  ],
+  "src/pages/Impressum.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/Impressum.vue": [
+    "/assets/Impressum-CqNUY_zk.js"
+  ],
+  "src/pages/Kontakt.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/Kontakt.vue": [
+    "/assets/Kontakt-8-TvxDiM.js"
+  ],
+  "src/pages/NotFound.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/NotFound.vue": [
+    "/assets/NotFound-DxXwoD9m.js"
+  ],
+  "src/pages/Produkte.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/Produkte.vue": [
+    "/assets/Produkte-ClSytKVz.js"
+  ],
+  "src/pages/WebsiteRedesign.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/WebsiteRedesign.vue": [
+    "/assets/WebsiteRedesign-B3Bm4CfD.js"
+  ],
+  "src/pages/ai/AltsystemCheck.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/ai/AltsystemCheck.vue": [
+    "/assets/AltsystemCheck-CfZoOTZ0.js",
+    "/assets/AltsystemCheck-Bx7AzJJp.css"
+  ],
+  "src/pages/ai/AltsystemCheck.vue?vue&type=style&index=0&scoped=13c0dbca&lang.css": [
+    "/assets/AltsystemCheck-CfZoOTZ0.js",
+    "/assets/AltsystemCheck-Bx7AzJJp.css"
+  ],
+  "src/pages/ai/Index.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/ai/Index.vue": [
+    "/assets/Index-ClINu8FW.js"
+  ],
+  "src/pages/ai/ReadinessCheck.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/ai/ReadinessCheck.vue": [
+    "/assets/ReadinessCheck-BZxNgG5O.js",
+    "/assets/ReadinessCheck-D-w7lOii.css"
+  ],
+  "src/pages/ai/ReadinessCheck.vue?vue&type=style&index=0&scoped=3eeaedbf&lang.css": [
+    "/assets/ReadinessCheck-BZxNgG5O.js",
+    "/assets/ReadinessCheck-D-w7lOii.css"
+  ],
+  "src/pages/blog/AltsoftwareMitKiAgentenNeuBauen.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/AltsoftwareMitKiAgentenNeuBauen.vue": [
+    "/assets/AltsoftwareMitKiAgentenNeuBauen-DzyxWkkj.js"
+  ],
+  "src/pages/blog/AmazonRechnungenHerunterladen.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/AmazonRechnungenHerunterladen.vue": [
+    "/assets/AmazonRechnungenHerunterladen-DzSkHCx9.js"
+  ],
+  "src/pages/blog/CategoryERechnung.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/blog/CategoryKiAutomatisierung.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/blog/CategoryPage.vue": [
+    "/assets/CategoryPage-DswiKz01.js"
+  ],
+  "src/pages/blog/ChatGptClaudeGeminiVergleich.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ChatGptClaudeGeminiVergleich.vue": [
+    "/assets/ChatGptClaudeGeminiVergleich-16DhJzE6.js"
+  ],
+  "src/pages/blog/DigitalisierungMittelstand2026.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/DigitalisierungMittelstand2026.vue": [
+    "/assets/DigitalisierungMittelstand2026-NXrGwDGc.js"
+  ],
+  "src/pages/blog/EN16931Branchenerweiterungen.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/EN16931Branchenerweiterungen.vue": [
+    "/assets/EN16931Branchenerweiterungen-C6PfC3rH.js"
+  ],
+  "src/pages/blog/ERechnungApi.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungApi.vue": [
+    "/assets/ERechnungApi-C9K84SEx.js"
+  ],
+  "src/pages/blog/ERechnungArztpraxis.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungArztpraxis.vue": [
+    "/assets/ERechnungArztpraxis-CrS5y3wr.js"
+  ],
+  "src/pages/blog/ERechnungBaugewerbe.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungBaugewerbe.vue": [
+    "/assets/ERechnungBaugewerbe-D7UL1Pen.js"
+  ],
+  "src/pages/blog/ERechnungBehoerden.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungBehoerden.vue": [
+    "/assets/ERechnungBehoerden-DrYxRghj.js"
+  ],
+  "src/pages/blog/ERechnungCheckliste2026.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungCheckliste2026.vue": [
+    "/assets/ERechnungCheckliste2026-GrJPSrTD.js"
+  ],
+  "src/pages/blog/ERechnungDatev.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungDatev.vue": [
+    "/assets/ERechnungDatev-CNKDQvHX.js"
+  ],
+  "src/pages/blog/ERechnungEinzelhandel.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungEinzelhandel.vue": [
+    "/assets/ERechnungEinzelhandel-BGCSw1nN.js"
+  ],
+  "src/pages/blog/ERechnungEmpfangenVerarbeiten.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungEmpfangenVerarbeiten.vue": [
+    "/assets/ERechnungEmpfangenVerarbeiten-CcO84IAC.js"
+  ],
+  "src/pages/blog/ERechnungErstellenAnleitung.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungErstellenAnleitung.vue": [
+    "/assets/ERechnungErstellenAnleitung-BI-9yoc8.js"
+  ],
+  "src/pages/blog/ERechnungFehler.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungFehler.vue": [
+    "/assets/ERechnungFehler-CS1EpMb4.js"
+  ],
+  "src/pages/blog/ERechnungFreiberufler.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungFreiberufler.vue": [
+    "/assets/ERechnungFreiberufler-Ca9wl6jE.js"
+  ],
+  "src/pages/blog/ERechnungGastronomie.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungGastronomie.vue": [
+    "/assets/ERechnungGastronomie-BgXLbmZf.js"
+  ],
+  "src/pages/blog/ERechnungHandwerk.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungHandwerk.vue": [
+    "/assets/ERechnungHandwerk-Bs3RdJLS.js"
+  ],
+  "src/pages/blog/ERechnungHausverwaltung.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungHausverwaltung.vue": [
+    "/assets/ERechnungHausverwaltung-bFsyaTRv.js"
+  ],
+  "src/pages/blog/ERechnungKleinunternehmer.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungKleinunternehmer.vue": [
+    "/assets/ERechnungKleinunternehmer--ERxx9-w.js"
+  ],
+  "src/pages/blog/ERechnungLexoffice.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungLexoffice.vue": [
+    "/assets/ERechnungLexoffice-ChMPH5_W.js"
+  ],
+  "src/pages/blog/ERechnungSevdesk.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungSevdesk.vue": [
+    "/assets/ERechnungSevdesk-DXDnyILM.js"
+  ],
+  "src/pages/blog/ERechnungSoftwareVergleich2026.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungSoftwareVergleich2026.vue": [
+    "/assets/ERechnungSoftwareVergleich2026-BZ6ds8DL.js",
+    "/assets/ERechnungSoftwareVergleich2026-GhnfGBr5.css"
+  ],
+  "src/pages/blog/ERechnungSoftwareVergleich2026.vue?vue&type=style&index=0&scoped=bfd7a0f1&lang.css": [
+    "/assets/ERechnungSoftwareVergleich2026-BZ6ds8DL.js",
+    "/assets/ERechnungSoftwareVergleich2026-GhnfGBr5.css"
+  ],
+  "src/pages/blog/ERechnungSpeditionLogistik.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungSpeditionLogistik.vue": [
+    "/assets/ERechnungSpeditionLogistik-BmyYWjnw.js"
+  ],
+  "src/pages/blog/ERechnungSteuerberater.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungSteuerberater.vue": [
+    "/assets/ERechnungSteuerberater-DNQ3O2Hf.js"
+  ],
+  "src/pages/blog/ERechnungVereine.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/ERechnungVereine.vue": [
+    "/assets/ERechnungVereine-Dd9A70EU.js"
+  ],
+  "src/pages/blog/EuVidaDirektive2030.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/EuVidaDirektive2030.vue": [
+    "/assets/EuVidaDirektive2030-DiRLG_ef.js"
+  ],
+  "src/pages/blog/GmbhMitKiAgentenAutomatisiert.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/GmbhMitKiAgentenAutomatisiert.vue": [
+    "/assets/GmbhMitKiAgentenAutomatisiert-CR67USkF.js"
+  ],
+  "src/pages/blog/KiAgentVsChatbot.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiAgentVsChatbot.vue": [
+    "/assets/KiAgentVsChatbot-BkHYb_CG.js"
+  ],
+  "src/pages/blog/KiAgentenBetriebMonitoring.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiAgentenBetriebMonitoring.vue": [
+    "/assets/KiAgentenBetriebMonitoring-BHqYCX5E.js"
+  ],
+  "src/pages/blog/KiAgentenBuchhaltung.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiAgentenBuchhaltung.vue": [
+    "/assets/KiAgentenBuchhaltung-33U9ryBx.js"
+  ],
+  "src/pages/blog/KiAgentenDokumentenverarbeitung.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiAgentenDokumentenverarbeitung.vue": [
+    "/assets/KiAgentenDokumentenverarbeitung-Baa8k33g.js"
+  ],
+  "src/pages/blog/KiAgentenDsgvoDatenschutz.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiAgentenDsgvoDatenschutz.vue": [
+    "/assets/KiAgentenDsgvoDatenschutz-BBC0aomV.js"
+  ],
+  "src/pages/blog/KiAgentenFuerUnternehmen.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiAgentenFuerUnternehmen.vue": [
+    "/assets/KiAgentenFuerUnternehmen-CyjR4pU_.js"
+  ],
+  "src/pages/blog/KiAgentenMittelstand30Tage.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiAgentenMittelstand30Tage.vue": [
+    "/assets/KiAgentenMittelstand30Tage--WpnV0Ob.js"
+  ],
+  "src/pages/blog/KiAgentenSicherheit.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiAgentenSicherheit.vue": [
+    "/assets/KiAgentenSicherheit-CM6LIHE3.js"
+  ],
+  "src/pages/blog/KiAutomatisierungKosten.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiAutomatisierungKosten.vue": [
+    "/assets/KiAutomatisierungKosten-CLbMS9nJ.js"
+  ],
+  "src/pages/blog/KiBuchhaltung.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiBuchhaltung.vue": [
+    "/assets/KiBuchhaltung-BzqoITGu.js"
+  ],
+  "src/pages/blog/KiComplianceDsgvoAiAct.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiComplianceDsgvoAiAct.vue": [
+    "/assets/KiComplianceDsgvoAiAct-DUexcCsb.js"
+  ],
+  "src/pages/blog/KiFoerdermittel2026.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiFoerdermittel2026.vue": [
+    "/assets/KiFoerdermittel2026-DFbiEKZU.js"
+  ],
+  "src/pages/blog/KiFuerSteuerberater.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiFuerSteuerberater.vue": [
+    "/assets/KiFuerSteuerberater-KRWA6jAe.js"
+  ],
+  "src/pages/blog/KiImRecruiting.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiImRecruiting.vue": [
+    "/assets/KiImRecruiting-DcXZO7vl.js"
+  ],
+  "src/pages/blog/KiImVertrieb.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiImVertrieb.vue": [
+    "/assets/KiImVertrieb-v1cP41vW.js"
+  ],
+  "src/pages/blog/KiKundenserviceAgent.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiKundenserviceAgent.vue": [
+    "/assets/KiKundenserviceAgent-BNLm7O6W.js"
+  ],
+  "src/pages/blog/KiProzessautomatisierungPilotRollout.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiProzessautomatisierungPilotRollout.vue": [
+    "/assets/KiProzessautomatisierungPilotRollout-DLQFP1Xa.js"
+  ],
+  "src/pages/blog/KiQualitaetssicherungProduktion.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiQualitaetssicherungProduktion.vue": [
+    "/assets/KiQualitaetssicherungProduktion-uVIIGl4w.js"
+  ],
+  "src/pages/blog/KiRoiBerechnen.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiRoiBerechnen.vue": [
+    "/assets/KiRoiBerechnen-2_jCXDYD.js"
+  ],
+  "src/pages/blog/KiTelefonbotKmu.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiTelefonbotKmu.vue": [
+    "/assets/KiTelefonbotKmu-Cxrg__lJ.js"
+  ],
+  "src/pages/blog/KiVertriebLeadScoring.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/KiVertriebLeadScoring.vue": [
+    "/assets/KiVertriebLeadScoring-BIRB5qB2.js"
+  ],
+  "src/pages/blog/LlmSelbstHostenDsgvo.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/LlmSelbstHostenDsgvo.vue": [
+    "/assets/LlmSelbstHostenDsgvo-DSpIZr40.js"
+  ],
+  "src/pages/blog/McpModelContextProtocol.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/McpModelContextProtocol.vue": [
+    "/assets/McpModelContextProtocol-DuvF-Ubh.js"
+  ],
+  "src/pages/blog/PeppolAccessPointWaehlen.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/PeppolAccessPointWaehlen.vue": [
+    "/assets/PeppolAccessPointWaehlen-CVxq6sVW.js"
+  ],
+  "src/pages/blog/PeppolB2bDeutschland2026.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/PeppolB2bDeutschland2026.vue": [
+    "/assets/PeppolB2bDeutschland2026-6QYR1Fy-.js"
+  ],
+  "src/pages/blog/RagFuerUnternehmenswissen.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/RagFuerUnternehmenswissen.vue": [
+    "/assets/RagFuerUnternehmenswissen-q5r3wS8i.js"
+  ],
+  "src/pages/blog/WarumKiAgentenGedaechtnisToolsSkillsBrauchen.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/WarumKiAgentenGedaechtnisToolsSkillsBrauchen.vue": [
+    "/assets/WarumKiAgentenGedaechtnisToolsSkillsBrauchen-C6PN4p0b.js"
+  ],
+  "src/pages/blog/XRechnungBeispiel.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/XRechnungBeispiel.vue": [
+    "/assets/XRechnungBeispiel-BcxUpEda.js"
+  ],
+  "src/pages/blog/XRechnungImplementieren.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/XRechnungImplementieren.vue": [
+    "/assets/XRechnungImplementieren-D4QJ9TLv.js"
+  ],
+  "src/pages/blog/XRechnungPflicht2027.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/XRechnungPflicht2027.vue": [
+    "/assets/XRechnungPflicht2027-F4FX2JsH.js"
+  ],
+  "src/pages/blog/XRechnungVsZugferd.meta.js": [
+    "/assets/blogPosts-BXoPQBXG.js"
+  ],
+  "src/pages/blog/XRechnungVsZugferd.vue": [
+    "/assets/XRechnungVsZugferd-DMxUPagl.js"
+  ],
+  "src/pages/einvoice/Index.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/einvoice/Index.vue": [
+    "/assets/Index-CRXGN8we.js"
+  ],
+  "src/pages/einvoice/PflichtCheck.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/einvoice/PflichtCheck.vue": [
+    "/assets/PflichtCheck-CaJRmGfL.js",
+    "/assets/PflichtCheck-BvLn6Jp4.css"
+  ],
+  "src/pages/einvoice/PflichtCheck.vue?vue&type=style&index=0&scoped=e124b464&lang.css": [
+    "/assets/PflichtCheck-CaJRmGfL.js",
+    "/assets/PflichtCheck-BvLn6Jp4.css"
+  ],
+  "src/pages/lp/ERechnung.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/lp/ERechnung.vue": [
+    "/assets/ERechnung-BQYMTWn8.js"
+  ],
+  "src/pages/lp/ERechnung.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ERechnung-BQYMTWn8.js"
+  ],
+  "src/pages/lp/KiAutomatisierung.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/lp/KiAutomatisierung.vue": [
+    "/assets/KiAutomatisierung-DTvXFR1_.js"
+  ],
+  "src/pages/lp/KiAutomatisierung.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/KiAutomatisierung-DTvXFR1_.js"
+  ],
+  "src/pages/lp/ProzessReport.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/lp/ProzessReport.vue": [
+    "/assets/ProzessReport-DVs9AVIP.js",
+    "/assets/ProzessReport-BsVZOc1o.css"
+  ],
+  "src/pages/lp/WebsiteRedesign.route.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/pages/lp/WebsiteRedesign.vue": [
+    "/assets/WebsiteRedesign-Bj0ezsOH.js"
+  ],
+  "src/pages/lp/WebsiteRedesign.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/WebsiteRedesign-Bj0ezsOH.js"
+  ],
+  "src/router.js": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ],
+  "src/style.css": [
+    "/assets/dm-sans-latin-ext-opsz-normal-oos9povj.woff2",
+    "/assets/dm-sans-latin-opsz-normal-Bf69Tn_J.woff2",
+    "/assets/dm-sans-latin-ext-opsz-italic-DNX9AbKj.woff2",
+    "/assets/dm-sans-latin-opsz-italic-C8i6y2Ft.woff2"
+  ]
+}
